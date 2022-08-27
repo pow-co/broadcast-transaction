@@ -1,0 +1,20 @@
+{
+  "name": "broadcast-transaction",
+  "version": "0.4.0",
+  "description": "Simply Broadcasts Bitcoin Transactions",
+  "main": "index.js",
+  "scripts": {},
+  "bin": {
+    "broadcast-transaction": "index.js"
+  },
+  "keywords": [
+    "bitcoin",
+    "broadcast",
+    "transaction"
+  ],
+  "author": "ZYLER",
+  "license": "ISC",
+  "dependencies": {
+    "run-sdk": "^0.6.40"
+  }
+}
